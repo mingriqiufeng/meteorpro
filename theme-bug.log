@@ -1,0 +1,30 @@
+[2025-03-06 09:16:13] access_token获取失败
+array (
+  'errcode' => 41002,
+  'errmsg' => 'appid missing rid: 67c967dd-175f7ffe-7fe8aa68',
+)
+[2025-03-06 09:16:13] access_token获取失败
+array (
+  'errcode' => 41002,
+  'errmsg' => 'appid missing rid: 67c967dd-378efaef-3f843410',
+)
+[2025-03-06 09:16:54] access_token获取失败
+array (
+  'errcode' => 41002,
+  'errmsg' => 'appid missing rid: 67c96806-6f6eba98-1a10d9d4',
+)
+[2025-03-06 09:16:54] access_token获取失败
+array (
+  'errcode' => 41002,
+  'errmsg' => 'appid missing rid: 67c96806-79d82ae0-70150470',
+)
+[2025-03-06 09:17:41] access_token获取失败
+array (
+  'errcode' => 41002,
+  'errmsg' => 'appid missing rid: 67c96835-4eef6135-139c02b9',
+)
+[2025-03-06 09:17:41] access_token获取失败
+array (
+  'errcode' => 41002,
+  'errmsg' => 'appid missing rid: 67c96835-78fd37ae-6d5d7490',
+)
